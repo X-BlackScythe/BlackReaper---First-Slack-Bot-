@@ -28,7 +28,7 @@ app.command("/blackreaper-help", async ({ ack, respond }) => {
     text:
 `Available Commands:
 /blackreaper-ping - Check bot latency
-/blackreaper-help - Show available commands
+ - Show available commands
 /blackreaper-catfact - Get a cat fact`
   });
 });
